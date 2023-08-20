@@ -21,5 +21,6 @@ Unity 2022.3.5 or older.
 - Decorations and foliage generation
 - Infinite terrain generation
 
-# MIT LICENSE
+# License
+[MIT](https://github.com/bbQsauce5/transvoxel-unity/blob/main/LICENSE)
 
