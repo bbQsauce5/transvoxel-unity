@@ -13,8 +13,8 @@ Unity 2022.3.5 or older.
 - "Unlimited" blending between textures using texture arrays and triplanar shading
 - Collider generation inside jobs off the main thread
   
-![octree](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/c7fc7b07-d41f-4313-8839-c25f5f47f456)
-![worldgen](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/65050723-3a16-4f10-aa5e-7edc1c1f3cb3)
+![worldgen](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/b4e3876d-d79f-4c39-a4fd-526c1ee7c270)
+![octree](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/24232c50-1413-4018-803f-ef3166cf8320)
 
 # Future work
 - Terrain editing
