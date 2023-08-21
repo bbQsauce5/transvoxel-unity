@@ -22,5 +22,9 @@ Unity 2022.3.5 or older.
 - Decorations and foliage generation
 - Infinite terrain generation
 
+# Acknowledgements
+- [Lengyel, Eric. “Voxel-Based Terrain for Real-Time Virtual Simulations”. PhD diss., University of California at Davis, 2010.](https://transvoxel.org/)
+- [Auburn - FastNoiseLite](https://github.com/Auburn/FastNoiseLite)
+
 # License
 [MIT](https://github.com/bbQsauce5/transvoxel-unity/blob/main/LICENSE)
