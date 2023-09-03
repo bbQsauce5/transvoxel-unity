@@ -13,13 +13,18 @@ Unity 2022.3.5 or older.
 - "Unlimited" blending between textures using texture arrays and triplanar shading
 - Collider generation inside jobs off the main thread
   
-![octree](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/c7fc7b07-d41f-4313-8839-c25f5f47f456)
-![worldgen](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/65050723-3a16-4f10-aa5e-7edc1c1f3cb3)
+![worldgen](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/b4e3876d-d79f-4c39-a4fd-526c1ee7c270)
+![2023-08-20 22-53-47](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/aafe306e-ee4b-49a1-b85b-01594bc46ea6)
+![2023-08-20 23-06-29](https://github.com/bbQsauce5/transvoxel-unity/assets/52680084/1044b337-4cb3-4b23-8050-e0450143aa28)
 
 # Future work
 - Terrain editing
 - Decorations and foliage generation
 - Infinite terrain generation
 
-# MIT LICENSE
+# Acknowledgements
+- [Lengyel, Eric. “Voxel-Based Terrain for Real-Time Virtual Simulations”. PhD diss., University of California at Davis, 2010.](https://transvoxel.org/)
+- [Auburn - FastNoiseLite](https://github.com/Auburn/FastNoiseLite)
 
+# License
+[MIT](https://github.com/bbQsauce5/transvoxel-unity/blob/main/LICENSE)
