@@ -4,7 +4,8 @@ transvoxel-unity is a procedural voxel terrain generator for Unity using the Job
 The tool is made for academic and demonstration purposes and is in no way considered production ready.
 
 # Requirements
-Unity 2022.3.5 or newer.
+- Unity 2022.3.5 or newer.
+- Universal Render Pipeline
 
 # Installation
 - Create a new folder inside the 'Packages' folder in your Unity Project root
