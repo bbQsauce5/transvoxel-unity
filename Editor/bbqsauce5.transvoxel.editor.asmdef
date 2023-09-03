@@ -1,0 +1,16 @@
+{
+    "name": "bbqsauce5.transvoxel.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a71ac1b33e6de01479762d8fb6425183"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
