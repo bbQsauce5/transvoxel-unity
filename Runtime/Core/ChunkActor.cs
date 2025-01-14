@@ -16,6 +16,10 @@ public class ChunkActor : MonoBehaviour
             if (mesh.GetIndexCount(0) > 0 && (transitionFlags & (1 << i)) > 0) { 
                 TransitionFilters[i].mesh = meshes[i + 1];
             }
+            else
+            {
+                TransitionFilters[i].mesh = null;
+            }
         }
     }
 
